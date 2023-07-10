@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api samy.bougdim@live.fr
+	email = samy.bougdim@live.fr
 	name = samy bougdim
